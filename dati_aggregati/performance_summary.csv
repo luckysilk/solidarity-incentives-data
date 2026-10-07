@@ -1,0 +1,9 @@
+Task,Condition,Participants,Unit,Mean,SD
+Running,Baseline,95,seconds,20.25,3.07
+Running,Individual,95,seconds,19.14,3.12
+Running,Team,95,seconds,19.03,2.72
+Running,Solidarity,95,seconds,19.06,2.81
+Tower,Baseline,96,game_height_units,511.4,140.1
+Tower,Individual,96,game_height_units,558.9,129.1
+Tower,Team,96,game_height_units,566.4,122.8
+Tower,Solidarity,96,game_height_units,561.7,132.7
